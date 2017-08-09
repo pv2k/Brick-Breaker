@@ -1,0 +1,24 @@
+Controls:
+
+'N' and 'M' to increase and decrease speeed of bricks respetively
+press 'left ctrl' and 'right ctrl' to move red basket left and right
+press 'left alt' and 'right alt' to move green basket left and right
+press 's' and 'f' to translate the gun up and down respectively
+press 'a' and 'd' to rotate the gun clockwise and anti-clockwise
+THe up/down keys to zoom in
+The left/right arrow keys to pan the scene
+Space to shoot the laser
+can drag the baskets left and right by dragging the mouse
+can drag the gun up and down by dragging the gun
+Use the right mouse button to pan left/right when you click and drag
+Use the position where you click to decide the direction of the shot.
+Use the mouse-scroll wheel to zoom in and out
+
+Gameplay:
+
+Shooting black-brick gives 10 points
+shooting red and green brick gives -2 points to the user
+collecting red and green bricks in the wrong baskets gives -2 points
+collecting the bricks in the right baskets gives +5 points
+shooting 5 non-black bricks ends the game
+collecting black brick in the basket also ends the game
